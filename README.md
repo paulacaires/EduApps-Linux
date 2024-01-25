@@ -19,9 +19,6 @@ Os principais critérios para a escolha dos aplicativos são:
 
 1. [Ramp: Forces and Motion](#ramp-forces-and-motion)
 
-O Ramp: Forces and Motion é um aplicativo de simulação. Nele, você pode interagir com os objetos e avaliar o comportamento deles.
-
-
 ## Ramp: Forces and Motion
 
 O [Ramp: Forces and Motion](https://phet.colorado.edu/en/simulations/ramp-forces-and-motion) é um aplicativo de simulações de física mecânica em um plano inclinado.
@@ -92,6 +89,5 @@ Se você conseguir entregar o objeto na porta da casa, você ganha!
 
 Portanto, esse aplicativo é interessante para ensinar os alunos sobre forças, suas interações com diferentes massas, gravidades e inclinações de plano. Assim, o aluno também aprenderá a ler gráficos e interpretar como a aplicação de cada parâmetro influencia no estado da simulação.
 
-
 > [!IMPORTANT]
-> **Sugestões** de outros aplicativos interessantes de física para instalar no seu Linux: Step, KStars
+> **Sugestões** de outros aplicativos interessantes de física para instalar no seu Linux: Step, KStars, Radioactive Dating Game
